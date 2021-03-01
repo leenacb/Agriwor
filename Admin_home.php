@@ -77,14 +77,7 @@
                                         <li class="menu-item"><a href="testimonial.html">Testimonial</a></li>
                                         <li class="menu-item menu-item-has-children"><a href="gallery-3-columns-without-caption.html">Gallery</a>
                                             <ul class="dl-submenu">
-                                                <li class="menu-item"><a href="gallery-2-columns-without-caption.html">Gallery 2 Columns Without Caption</a></li>
-                                                <li class="menu-item"><a href="gallery-2-columns-with-caption.html">Gallery 2 Columns With Caption</a></li>
-                                                <li class="menu-item"><a href="gallery-3-columns-without-caption.html">Gallery 3 Columns Without Caption</a></li>
-                                                <li class="menu-item"><a href="gallery-3-columns-with-caption.html">Gallery 3 Columns With Caption</a></li>
-                                                <li class="menu-item"><a href="gallery-4-columns-without-caption.html">Gallery 4 Columns Without Caption</a></li>
-                                                <li class="menu-item"><a href="gallery-4-columns-with-caption.html">Gallery 4 Columns With Caption</a></li>
-                                                <li class="menu-item"><a href="gallery-5-columns-without-caption.html">Gallery 5 Columns Without Caption</a></li>
-                                                <li class="menu-item"><a href="gallery-5-columns-with-caption.html">Gallery 5 Columns With Caption</a></li>
+                                                
                                             </ul>
                                         </li>
                                     </ul>

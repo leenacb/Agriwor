@@ -10,7 +10,7 @@
 <head>
    
 
-    <title>Agri-World</title>
+    <title>World-Agri</title>
 
  <meta charset="UTF-8" />
     <meta name="viewport" content="initial-scale=1.0" />

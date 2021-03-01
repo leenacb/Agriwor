@@ -146,7 +146,7 @@
                     <div class="greennature-navigation-wrapper">
                         <nav class="greennature-navigation" id="greennature-main-navigation">
                             <ul id="menu-main-menu-1" class="sf-menu greennature-main-menu">
-                                <li class="menu-item menu-item-home current-menu-item greennature-normal-menu"><a><i class="fa fa-home"></i>VIEW FARMERS</a>
+                                <li class="menu-item menu-item-home current-menu-item greennature-normal-menu"><a><i class="fa fa-home"></i>VIEW USERS</a>
 								<ul class="sub-menu">
 								<li class="menu-item"><a href="farmer_table_view.php">Farmer view</a></li>
 								<li class="menu-item"><a href="seller_table_view.php">seller View</a></li>
